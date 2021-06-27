@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Deadly Volcanos</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="container-fluid">
+      <div class="jumbotron text-center">
+        <h1>Deadly Volcanos</h1>
+        <p><h3>Data from the past few centuries</h3></p>
+        <p><a class="btn btn-primary btn-lg" href="/scrape" role="button">Get Data!</a></p>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+        </div>
+
+        <div class="col-md-2">
+        </div>
+
+        <div class="col-md-8">
+          <h1>Information about most Dearly Volcano Eruptions over centuries </h1>
+        </div>
+        <div class="col-md-12">
+          <h1>     </h1>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="row">
+      <div class="col-md-12">
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-2">
+      </div>
+      <div class="col-md-8">
+        
+        <h3> {{ volcano.news_title }}</h3>
+      </div>
+    </div>
+
+
+    <div class="row">
+      <div class="col-md-12">
+        <h1> </h1>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12">
+      </div>
+      <div class="col-md-10"> 
+      </div>
+    </div>
+
+
+    <div class="row">
+      <div class="col-md-2">
+      </div>
+      <div class="col-md-8">
+        <table>  {{ volcano.volcano_facts | safe }}  </table>
+      </div>
+      <div class="col-md-2">
+      </div>
+
+      <div class="row">
+        <div class="col-md-2">
+        </div>
+        <div>
+        </div>
+      </div>
+
+      <!-- Bootstrap CSS -->
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+      <!-- Option 1: Bootstrap Bundle with Popper -->
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0"
+        crossorigin="anonymous"></script>
+
+
+</body>
+
+</html>

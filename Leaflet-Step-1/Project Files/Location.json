@@ -1,0 +1,710 @@
+[
+  {
+    "Country": "Russia",
+    "Region": "Kuril Islands",
+    "Subregion": "Kuril Islands",
+    "Longitude": 155.565
+  },
+  {
+    "Country": "Ethiopia",
+    "Region": "Africa and Red Sea",
+    "Subregion": "Africa (northeastern) and Red Sea",
+    "Longitude": 40.553
+  },
+  {
+    "Country": "Vanuatu",
+    "Region": "Melanesia and Australia",
+    "Subregion": "Vanuatu",
+    "Longitude": 168.12
+  },
+  {
+    "Country": "United States",
+    "Region": "Japan, Taiwan, Marianas",
+    "Subregion": "Izu, Volcano, and Mariana Islands",
+    "Longitude": 145.67
+  },
+  {
+    "Country": "Japan",
+    "Region": "Japan, Taiwan, Marianas",
+    "Subregion": "Honshu",
+    "Longitude": 138.523
+  },
+  {
+    "Country": "United States",
+    "Region": "Alaska",
+    "Subregion": "Alaska (southwestern)",
+    "Longitude": -153.43
+  },
+  {
+    "Country": "Ecuador",
+    "Region": "South America",
+    "Subregion": "Galapagos Islands",
+    "Longitude": -91.408
+  },
+  {
+    "Country": "Indonesia",
+    "Region": "Indonesia",
+    "Subregion": "Banda Sea",
+    "Longitude": 129.881
+  },
+  {
+    "Country": "Iceland",
+    "Region": "Iceland and Arctic Ocean",
+    "Subregion": "Iceland (northeastern)",
+    "Longitude": -17.516
+  },
+  {
+    "Country": "India",
+    "Region": "Indonesia",
+    "Subregion": "Andaman Islands",
+    "Longitude": 93.858
+  },
+  {
+    "Country": "Russia",
+    "Region": "Kamchatka and Mainland Asia",
+    "Subregion": "Kamchatka Peninsula",
+    "Longitude": 160.595
+  },
+  {
+    "Country": "Philippines",
+    "Region": "Philippines and SE Asia",
+    "Subregion": "Luzon",
+    "Longitude": 124.056
+  },
+  {
+    "Country": "Chile",
+    "Region": "South America",
+    "Subregion": "Southern Chile and Argentina",
+    "Longitude": -72.618
+  },
+  {
+    "Country": "Cameroon",
+    "Region": "Africa and Red Sea",
+    "Subregion": "Africa (western)",
+    "Longitude": 9.17
+  },
+  {
+    "Country": "Chile",
+    "Region": "South America",
+    "Subregion": "Southern Chile and Argentina",
+    "Longitude": -72.646
+  },
+  {
+    "Country": "Mexico",
+    "Region": "Mexico and Central Americ",
+    "Subregion": "Mexico",
+    "Longitude": -93.228
+  },
+  {
+    "Country": "Russia",
+    "Region": "Kuril Islands",
+    "Subregion": "Kuril Islands",
+    "Longitude": 155.461
+  },
+  {
+    "Country": "United States",
+    "Region": "Alaska",
+    "Subregion": "Aleutian Islands",
+    "Longitude": -169.944
+  },
+  {
+    "Country": "Indonesia",
+    "Region": "Indonesia",
+    "Subregion": "Sulawesi",
+    "Longitude": 121.601
+  },
+  {
+    "Country": "Chile-Argentina",
+    "Region": "South America",
+    "Subregion": "Central Chile and Argentina",
+    "Longitude": -71.183
+  },
+  {
+    "Country": "Ecuador",
+    "Region": "South America",
+    "Subregion": "Ecuador",
+    "Longitude": -78.436
+  },
+  {
+    "Country": "Italy",
+    "Region": "Mediterranean and Western Asia",
+    "Subregion": "Italy",
+    "Longitude": 14.999
+  },
+  {
+    "Country": "Iceland",
+    "Region": "Iceland and Arctic Ocean",
+    "Subregion": "Iceland (southern)",
+    "Longitude": -19.633
+  },
+  {
+    "Country": "Ecuador",
+    "Region": "South America",
+    "Subregion": "Galapagos Islands",
+    "Longitude": -91.55
+  },
+  {
+    "Country": "Cape Verde",
+    "Region": "Atlantic Ocean",
+    "Subregion": "Cape Verde Islands",
+    "Longitude": -24.35
+  },
+  {
+    "Country": "France",
+    "Region": "Middle East and Indian Ocean",
+    "Subregion": "Indian Ocean (western)",
+    "Longitude": 55.708
+  },
+  {
+    "Country": "United States",
+    "Region": "Alaska",
+    "Subregion": "Alaska Peninsula",
+    "Longitude": -153.672
+  },
+  {
+    "Country": "Guatemala",
+    "Region": "Mexico and Central Americ",
+    "Subregion": "Guatemala",
+    "Longitude": -90.88
+  },
+  {
+    "Country": "Colombia",
+    "Region": "South America",
+    "Subregion": "Colombia",
+    "Longitude": -77.37
+  },
+  {
+    "Country": "Indonesia",
+    "Region": "Indonesia",
+    "Subregion": "Java",
+    "Longitude": 108.058
+  },
+  {
+    "Country": "Indonesia",
+    "Region": "Indonesia",
+    "Subregion": "Halmahera",
+    "Longitude": 127.33
+  },
+  {
+    "Country": "Indonesia",
+    "Region": "Indonesia",
+    "Subregion": "Halmahera",
+    "Longitude": 127.53
+  },
+  {
+    "Country": "Iceland",
+    "Region": "Iceland and Arctic Ocean",
+    "Subregion": "Iceland (northeastern)",
+    "Longitude": -17.316
+  },
+  {
+    "Country": "Australia",
+    "Region": "Middle East and Indian Ocean",
+    "Subregion": "Indian Ocean (southern)",
+    "Longitude": 73.513
+  },
+  {
+    "Country": "Iceland",
+    "Region": "Iceland and Arctic Ocean",
+    "Subregion": "Iceland (southern)",
+    "Longitude": -19.666
+  },
+  {
+    "Country": "Tonga",
+    "Region": "New Zealand to Fiji",
+    "Subregion": "Tonga Islands",
+    "Longitude": -174.775
+  },
+  {
+    "Country": "Chile",
+    "Region": "South America",
+    "Subregion": "Southern Chile and Argentina",
+    "Longitude": -72.97
+  },
+  {
+    "Country": "Tonga",
+    "Region": "New Zealand to Fiji",
+    "Subregion": "Tonga Islands",
+    "Longitude": -175.382
+  },
+  {
+    "Country": "Japan",
+    "Region": "Japan, Taiwan, Marianas",
+    "Subregion": "Izu, Volcano, and Mariana Islands",
+    "Longitude": 139.394
+  },
+  {
+    "Country": "Philippines",
+    "Region": "Philippines and SE Asia",
+    "Subregion": "Central Philippines",
+    "Longitude": 123.132
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Region": "Melanesia and Australia",
+    "Subregion": "Northeast of New Guinea",
+    "Longitude": 145.964
+  },
+  {
+    "Country": "Comoros",
+    "Region": "Middle East and Indian Ocean",
+    "Subregion": "Indian Ocean (western)",
+    "Longitude": 43.38
+  },
+  {
+    "Country": "United States",
+    "Region": "Alaska",
+    "Subregion": "Aleutian Islands",
+    "Longitude": -175.508
+  },
+  {
+    "Country": "Indonesia",
+    "Region": "Indonesia",
+    "Subregion": "Java",
+    "Longitude": 112.308
+  },
+  {
+    "Country": "United States",
+    "Region": "Hawaii and Pacific Ocean",
+    "Subregion": "Hawaiian Islands",
+    "Longitude": -155.287
+  },
+  {
+    "Country": "Japan",
+    "Region": "Japan, Taiwan, Marianas",
+    "Subregion": "Ryukyu Islands and Kyushu",
+    "Longitude": 130.862
+  },
+  {
+    "Country": "Russia",
+    "Region": "Kamchatka and Mainland Asia",
+    "Subregion": "Kamchatka Peninsula",
+    "Longitude": 160.32
+  },
+  {
+    "Country": "Russia",
+    "Region": "Kamchatka and Mainland Asia",
+    "Subregion": "Kamchatka Peninsula",
+    "Longitude": 160.642
+  },
+  {
+    "Country": "Russia",
+    "Region": "Kamchatka and Mainland Asia",
+    "Subregion": "Kamchatka Peninsula",
+    "Longitude": 158.712
+  },
+  {
+    "Country": "Iceland",
+    "Region": "Iceland and Arctic Ocean",
+    "Subregion": "Iceland (northeastern)",
+    "Longitude": -16.728
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Region": "Melanesia and Australia",
+    "Subregion": "New Britain",
+    "Longitude": 150.027
+  },
+  {
+    "Country": "Japan",
+    "Region": "Japan, Taiwan, Marianas",
+    "Subregion": "Ryukyu Islands and Kyushu",
+    "Longitude": 130.217
+  },
+  {
+    "Country": "Chile",
+    "Region": "South America",
+    "Subregion": "Northern Chile, Bolivia and Argentina",
+    "Longitude": -67.73
+  },
+  {
+    "Country": "Chile",
+    "Region": "South America",
+    "Subregion": "Central Chile and Argentina",
+    "Longitude": -71.729
+  },
+  {
+    "Country": "Indonesia",
+    "Region": "Indonesia",
+    "Subregion": "Sulawesi",
+    "Longitude": 124.792
+  },
+  {
+    "Country": "Chile",
+    "Region": "South America",
+    "Subregion": "Central Chile and Argentina",
+    "Longitude": -71.586
+  },
+  {
+    "Country": "Vanuatu",
+    "Region": "Melanesia and Australia",
+    "Subregion": "Vanuatu",
+    "Longitude": 168.346
+  },
+  {
+    "Country": "Indonesia",
+    "Region": "Indonesia",
+    "Subregion": "Halmahera",
+    "Longitude": 127.4
+  },
+  {
+    "Country": "United States",
+    "Region": "Alaska",
+    "Subregion": "Aleutian Islands",
+    "Longitude": -166.923
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Region": "Melanesia and Australia",
+    "Subregion": "Northeast of New Guinea",
+    "Longitude": 145.037
+  },
+  {
+    "Country": "Ethiopia",
+    "Region": "Africa and Red Sea",
+    "Subregion": "Africa (northeastern) and Red Sea",
+    "Longitude": 40.82
+  },
+  {
+    "Country": "Ecuador",
+    "Region": "South America",
+    "Subregion": "Galapagos Islands",
+    "Longitude": -90.47
+  },
+  {
+    "Country": "United States",
+    "Region": "Hawaii and Pacific Ocean",
+    "Subregion": "Hawaiian Islands",
+    "Longitude": -155.608
+  },
+  {
+    "Country": "Philippines",
+    "Region": "Philippines and SE Asia",
+    "Subregion": "Luzon",
+    "Longitude": 123.685
+  },
+  {
+    "Country": "Indonesia",
+    "Region": "Indonesia",
+    "Subregion": "Java",
+    "Longitude": 110.446
+  },
+  {
+    "Country": "Japan",
+    "Region": "Japan, Taiwan, Marianas",
+    "Subregion": "Izu, Volcano, and Mariana Islands",
+    "Longitude": 139.526
+  },
+  {
+    "Country": "Nicaragua",
+    "Region": "Mexico and Central Americ",
+    "Subregion": "Nicaragua",
+    "Longitude": -86.539
+  },
+  {
+    "Country": "Eritrea",
+    "Region": "Africa and Red Sea",
+    "Subregion": "Africa (northeastern) and Red Sea",
+    "Longitude": 41.7
+  },
+  {
+    "Country": "Ecuador",
+    "Region": "South America",
+    "Subregion": "Galapagos Islands",
+    "Longitude": -91.17
+  },
+  {
+    "Country": "Nicaragua",
+    "Region": "Mexico and Central Americ",
+    "Subregion": "Nicaragua",
+    "Longitude": -86.702
+  },
+  {
+    "Country": "DR Congo",
+    "Region": "Africa and Red Sea",
+    "Subregion": "Africa (central)",
+    "Longitude": 29.2
+  },
+  {
+    "Country": "DR Congo",
+    "Region": "Africa and Red Sea",
+    "Subregion": "Africa (central)",
+    "Longitude": 29.25
+  },
+  {
+    "Country": "United States",
+    "Region": "Alaska",
+    "Subregion": "Aleutian Islands",
+    "Longitude": -168.13
+  },
+  {
+    "Country": "Japan",
+    "Region": "Japan, Taiwan, Marianas",
+    "Subregion": "Honshu",
+    "Longitude": 137.48
+  },
+  {
+    "Country": "Guatemala",
+    "Region": "Mexico and Central Americ",
+    "Subregion": "Guatemala",
+    "Longitude": -90.601
+  },
+  {
+    "Country": "United States",
+    "Region": "Japan, Taiwan, Marianas",
+    "Subregion": "Izu, Volcano, and Mariana Islands",
+    "Longitude": 145.8
+  },
+  {
+    "Country": "Indonesia",
+    "Region": "Indonesia",
+    "Subregion": "Lesser Sunda Islands",
+    "Longitude": 121.708
+  },
+  {
+    "Country": "Indonesia",
+    "Region": "Indonesia",
+    "Subregion": "Java",
+    "Longitude": 107.73
+  },
+  {
+    "Country": "United States",
+    "Region": "Alaska",
+    "Subregion": "Alaska Peninsula",
+    "Longitude": -161.894
+  },
+  {
+    "Country": "Philippines",
+    "Region": "Philippines and SE Asia",
+    "Subregion": "Luzon",
+    "Longitude": 120.35
+  },
+  {
+    "Country": "Chile",
+    "Region": "South America",
+    "Subregion": "Central Chile and Argentina",
+    "Longitude": -70.568
+  },
+  {
+    "Country": "Mexico",
+    "Region": "Mexico and Central Americ",
+    "Subregion": "Mexico",
+    "Longitude": -98.622
+  },
+  {
+    "Country": "Chile",
+    "Region": "South America",
+    "Subregion": "Central Chile and Argentina",
+    "Longitude": -72.117
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Region": "Melanesia and Australia",
+    "Subregion": "New Britain",
+    "Longitude": 152.203
+  },
+  {
+    "Country": "United States",
+    "Region": "Alaska",
+    "Subregion": "Alaska (southwestern)",
+    "Longitude": -152.742
+  },
+  {
+    "Country": "Ecuador",
+    "Region": "South America",
+    "Subregion": "Ecuador",
+    "Longitude": -77.656
+  },
+  {
+    "Country": "Indonesia",
+    "Region": "Indonesia",
+    "Subregion": "Lesser Sunda Islands",
+    "Longitude": 116.47
+  },
+  {
+    "Country": "Indonesia",
+    "Region": "Indonesia",
+    "Subregion": "Sangihe Islands",
+    "Longitude": 125.37
+  },
+  {
+    "Country": "New Zealand",
+    "Region": "New Zealand to Fiji",
+    "Subregion": "New Zealand",
+    "Longitude": 175.57
+  },
+  {
+    "Country": "Colombia",
+    "Region": "South America",
+    "Subregion": "Colombia",
+    "Longitude": -75.324
+  },
+  {
+    "Country": "Nicaragua",
+    "Region": "Mexico and Central Americ",
+    "Subregion": "Nicaragua",
+    "Longitude": -87.004
+  },
+  {
+    "Country": "El Salvador",
+    "Region": "Mexico and Central Americ",
+    "Subregion": "El Salvador and Honduras",
+    "Longitude": -88.269
+  },
+  {
+    "Country": "Indonesia",
+    "Region": "Indonesia",
+    "Subregion": "Lesser Sunda Islands",
+    "Longitude": 119.07
+  },
+  {
+    "Country": "El Salvador",
+    "Region": "Mexico and Central Americ",
+    "Subregion": "El Salvador and Honduras",
+    "Longitude": -89.63
+  },
+  {
+    "Country": "Russia",
+    "Region": "Kuril Islands",
+    "Subregion": "Kuril Islands",
+    "Longitude": 153.2
+  },
+  {
+    "Country": "Russia",
+    "Region": "Kamchatka and Mainland Asia",
+    "Subregion": "Kamchatka Peninsula",
+    "Longitude": 161.36
+  },
+  {
+    "Country": "United States",
+    "Region": "Alaska",
+    "Subregion": "Aleutian Islands",
+    "Longitude": -163.97
+  },
+  {
+    "Country": "Indonesia",
+    "Region": "Indonesia",
+    "Subregion": "Sumatra",
+    "Longitude": 98.392
+  },
+  {
+    "Country": "Indonesia",
+    "Region": "Indonesia",
+    "Subregion": "Sulawesi",
+    "Longitude": 124.737
+  },
+  {
+    "Country": "United Kingdom",
+    "Region": "West Indies",
+    "Subregion": "West Indies",
+    "Longitude": -62.18
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Region": "West Indies",
+    "Subregion": "West Indies",
+    "Longitude": -61.18
+  },
+  {
+    "Country": "United States",
+    "Region": "Alaska",
+    "Subregion": "Alaska (southwestern)",
+    "Longitude": -152.251
+  },
+  {
+    "Country": "United States",
+    "Region": "Canada and Western USA",
+    "Subregion": "USA (Washington)",
+    "Longitude": -122.18
+  },
+  {
+    "Country": "Yemen",
+    "Region": "Africa and Red Sea",
+    "Subregion": "Africa (northeastern) and Red Sea",
+    "Longitude": 41.83
+  },
+  {
+    "Country": "Indonesia",
+    "Region": "Indonesia",
+    "Subregion": "Sumatra",
+    "Longitude": 100.681
+  },
+  {
+    "Country": "Nicaragua",
+    "Region": "Mexico and Central Americ",
+    "Subregion": "Nicaragua",
+    "Longitude": -86.84
+  },
+  {
+    "Country": "Indonesia",
+    "Region": "Indonesia",
+    "Subregion": "Java",
+    "Longitude": 112.95
+  },
+  {
+    "Country": "Solomon Islands",
+    "Region": "Melanesia and Australia",
+    "Subregion": "Santa Cruz Islands",
+    "Longitude": 165.804
+  },
+  {
+    "Country": "Russia",
+    "Region": "Kamchatka and Mainland Asia",
+    "Subregion": "Kamchatka Peninsula",
+    "Longitude": 160.326
+  },
+  {
+    "Country": "New Zealand",
+    "Region": "New Zealand to Fiji",
+    "Subregion": "New Zealand",
+    "Longitude": 175.632
+  },
+  {
+    "Country": "Ecuador",
+    "Region": "South America",
+    "Subregion": "Ecuador",
+    "Longitude": -78.442
+  },
+  {
+    "Country": "Costa Rica",
+    "Region": "Mexico and Central Americ",
+    "Subregion": "Costa Rica",
+    "Longitude": -83.767
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Region": "Melanesia and Australia",
+    "Subregion": "New Britain",
+    "Longitude": 151.33
+  },
+  {
+    "Country": "United States",
+    "Region": "Alaska",
+    "Subregion": "Alaska Peninsula",
+    "Longitude": -159.38
+  },
+  {
+    "Country": "Chile",
+    "Region": "South America",
+    "Subregion": "Central Chile and Argentina",
+    "Longitude": -71.93
+  },
+  {
+    "Country": "Ecuador",
+    "Region": "South America",
+    "Subregion": "Galapagos Islands",
+    "Longitude": -91.35
+  },
+  {
+    "Country": "Russia",
+    "Region": "Kamchatka and Mainland Asia",
+    "Subregion": "Kamchatka Peninsula",
+    "Longitude": 159.15
+  },
+  {
+    "Country": "Yemen",
+    "Region": "Africa and Red Sea",
+    "Subregion": "Africa (northeastern) and Red Sea",
+    "Longitude": 42.18
+  }
+]
